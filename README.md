@@ -1,5 +1,5 @@
 # JS30
-Pratice for Javascript
+Practice for Javascript
 follow link below
 # JavaScript30
 Starter Files + Completed solutions for the JavaScript 30 Day Challenge.
